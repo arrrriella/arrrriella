@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arrrriella
+- 👋 Hi, I’m alina
 - 👀 I’m interested in a lot of different stuff
 - 🌱 I’m currently learning physics and gravitational waves
 - 💞️ I’m looking to collaborate on people coding on python and c++
